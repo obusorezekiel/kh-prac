@@ -12,7 +12,7 @@ on:
 
 env:
   REGISTRY: docker.io
-  IMAGE_NAME: kh-prac-frontend  # ✅ Replace with your actual Docker Hub repo name
+  IMAGE_NAME: kh-prac-frontend 
 
 jobs:
   build-and-deploy:
